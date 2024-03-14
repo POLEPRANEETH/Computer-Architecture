@@ -1,2 +1,2 @@
 # Computer-Architecture
-kamakoti course
+Computer Organisation and Architecture  --  ---- Jan 2020
